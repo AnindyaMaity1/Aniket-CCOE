@@ -311,5 +311,4 @@ Flask-SocketIO: For enabling real-time communication.
 
 Tailwind CSS: For simplifying the responsive UI development.
 
-ApexCharts.js: For powerful and interactive data visualization.#   A n i k e t - C C O E  
- 
+ApexCharts.js: For powerful and interactive data visualization.
