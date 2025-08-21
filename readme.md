@@ -363,3 +363,4 @@ This project is licensed under the MIT License - see the [LICENSE](https://www.g
 * **Tailwind CSS**: For simplifying the responsive UI development.
 
 * **ApexCharts.js**: For powerful and interactive data visualization.
+
